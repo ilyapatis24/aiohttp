@@ -1,0 +1,4 @@
+flask
+sqlalchemy==1.4.46
+aiohttp
+asyncpg
