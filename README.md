@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-Переписать сервис из [домашнего задания по Flask](../flask) на aiohhtp.
+Переписать сервис из [домашнего задания по Flask](https://github.com/ilyapatis24/Flask/blob/main/README.md) на aiohhtp.
 
 
 Результатом работы является API, написанный на aiohttp.
